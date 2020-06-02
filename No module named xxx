@@ -1,0 +1,2 @@
+Try to install with python -m pip install transformers instead of pip install. 
+That will ensure that the same python executable is used.
